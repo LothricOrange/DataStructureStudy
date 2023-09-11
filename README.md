@@ -1,8 +1,8 @@
 # DataStructureStudy
 ### 手写数据结构
 
- 
 <div align="center">
+
 | 数据结构                  | Java实现                                                     |
 | ------------------------- | ------------------------------------------------------------ |
 | 数组                      | [ArrayList](./src/main/java/com/Jie/ArrayListStudy/ArrayList.java) |
@@ -18,6 +18,6 @@
 | 并查集                    | [UnionFind](src/main/java/com/Jie/JointSearchSetStudy/UnionFind.java) |
 | 字典树                    | [Trie](src/main/java/com/Jie/TrieStudy/Trie.java)            |
 | 图 (有dijkstra算法的实现) | [ListGraph](src/main/java/com/Jie/GraphStudy/ListGraph.java), [ListGraphV2](src/main/java/com/dataStruct/Graph/ListGraph.java) |
-</div>
 
+</div>
 
